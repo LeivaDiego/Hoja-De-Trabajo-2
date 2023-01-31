@@ -2,12 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a26b345c-3463-4332-991f-6dc3cc22ad3d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/JavaDoc/DriverProgram.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/IPostfixCalculator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/IStack.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/PostfixCalculator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/Stack.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/allclasses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/allpackages-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/index-files/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/index-files/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/index-files/index-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/index-files/index-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/index-files/index-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/index-files/index-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/index-files/index-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/jquery/external/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/jquery/images/ui-bg_glass_65_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/jquery/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/jquery/images/ui-icons_222222_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/jquery/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/jquery/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/jquery/images/ui-icons_888888_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/jquery/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/jquery/jquery-3.5.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/jquery/jquery-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/jquery/jquery-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/jquery/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/jquery/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/jquery/jquery-ui.structure.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/jquery/jquery-ui.structure.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/jquery/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/jquery/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/jquery/jszip-utils/dist/jszip-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/jquery/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/jquery/jszip/dist/jszip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/jquery/jszip/dist/jszip.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/package-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/resources/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/resources/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDoc/type-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/otros/Captura funcionamiento.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DriverProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/DriverProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IPostfixCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/IPostfixCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/IStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PostfixCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/PostfixCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Postfix_Calculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Postfix_Calculator/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,16 +89,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/diego/Documents/2022/UVG/5to Semestre/Algoritmos y Estructuras de Datos/Hoja-de-Trabajo-2/Postfix_Calculator"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/diego/Documents/2022/UVG/5to Semestre/Algoritmos y Estructuras de Datos/Hoja-de-Trabajo-2/Postfix_Calculator&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="DriverProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DriverProgram" />
@@ -70,6 +124,7 @@
       <workItem from="1675128749176" duration="227000" />
       <workItem from="1675128994394" duration="1502000" />
       <workItem from="1675137490253" duration="766000" />
+      <workItem from="1675138688225" duration="94000" />
     </task>
     <servers />
   </component>
