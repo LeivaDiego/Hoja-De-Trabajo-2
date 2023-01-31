@@ -2,10 +2,11 @@
  * @author Seccion 40
  * Interfaz para las operaciones postfix
  */
+
 public interface IPostfixCalculator<T> {
 
 	/**
-	 *
+	 * Metodo de operaciones
 	 * @param postfix_expression un arraylist generico
 	 * @return un valor de tipo int con el resultado de la operacion
 	 * @throws Exception
