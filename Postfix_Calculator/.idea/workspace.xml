@@ -4,7 +4,10 @@
     <list default="true" id="a26b345c-3463-4332-991f-6dc3cc22ad3d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DriverProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/DriverProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IPostfixCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/IPostfixCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/IStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PostfixCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/PostfixCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/Stack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,15 +35,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/diego/Documents/2022/UVG/5to Semestre/Algoritmos y Estructuras de Datos/Hoja-de-Trabajo-2/Postfix_Calculator"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="DriverProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DriverProgram" />
@@ -65,6 +69,7 @@
       <updated>1675128747102</updated>
       <workItem from="1675128749176" duration="227000" />
       <workItem from="1675128994394" duration="1502000" />
+      <workItem from="1675137490253" duration="766000" />
     </task>
     <servers />
   </component>

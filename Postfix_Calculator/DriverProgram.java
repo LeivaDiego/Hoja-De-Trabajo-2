@@ -3,7 +3,14 @@ import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+/**
+ * @author diego leiva
+ * @author pablo orellana
+ *
+ * @version 5.0
+ */
 public class DriverProgram {
+
     public static void main(String[] args) throws Exception {
         PostfixCalculator calculator = new PostfixCalculator();
         System.out.println("Bienvenido a la calculadora Postfix\n");
@@ -17,6 +24,12 @@ public class DriverProgram {
         }
     }
 
+    /**
+     * Método encargado de la lectura del archivo de texto para luego
+     * realizar las operaciones que tiene guardadas
+     * @param path  la ruta del archivo de texto a evaluar
+     * @return  data retorna el ArrayList generado a partir de la lectura del archivo
+     */
     public static ArrayList FileReader(String path) {
         ArrayList<String> data = null;
         try {
