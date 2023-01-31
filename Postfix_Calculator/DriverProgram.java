@@ -4,14 +4,17 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class DriverProgram {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
+        PostfixCalculator calculator = new PostfixCalculator();
         System.out.println("Bienvenido a la calculadora Postfix\n");
         System.out.println("Porfavor ingrese la ruta del archivo a calcular: \n");
         Scanner input = new Scanner(System.in);
         String filePath = input.nextLine();
         ArrayList<String> fileData = FileReader(filePath);
-        System.out.println(fileData);
-
+        for (int i=0; i<fileData.size(); i++){
+            System.out.println(fileData.get(i));
+            System.out.println("Resultado de operacion: "+calculator.Calculate(fileData));
+        }
     }
 
     public static ArrayList FileReader(String path) {
